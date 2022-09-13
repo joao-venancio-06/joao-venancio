@@ -34,3 +34,19 @@ width: 1820;
 	width: 1920;
 	background: pink
 }
+
+#conteudo-rodape{
+     width: 1274;
+	height: auto;
+	float: left;
+	padding: 1px;
+	margin: 1px;
+}	
+
+#video-rodape{
+	width: 600px;
+	height: 285px
+	padding: 1px;
+	margin: 1px;
+	float: left;
+}
