@@ -1,0 +1,41 @@
+header{
+	background: #888888; /* cor fundo */ 
+	padding: 20px 0;	
+}
+
+.caixa{
+	position: relative; /* texto no meio*/
+	width: 940px; /* largura caixa */
+	margin: 0 auto; /* carcula margem */ 
+}
+nav {
+	position: absolute;/* ocupa todo espaço */
+	top: 110px; /* ficar no topo*/
+	right: 0; /* alinhado a direita */
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000;
+	font-weight: bold;
+	font-size: 22px;
+
+}
+
+.produtos{
+	width: 940;
+	margin: 0 auto;
+	padding: 55px 0;
+
+}
+
+.produtos li{
+	display: inline-block;
+	border: 2px solid #000;
+	text-align: center;
+	width: 30%;
+	margin: 0 1.5%;
+    vertical-align: top;
+	padding: 30px 20;
+	box-sizing: border-box;
+}
